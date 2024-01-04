@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 it was alien , it is chapter alien
+=======
+it was alien it is alien
+>>>>>>> alien-plot
